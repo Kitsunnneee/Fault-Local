@@ -1,0 +1,6 @@
+Src = triangle
+Exclude = []
+Family = sbfl
+Granularity = statement
+TopN = -1
+TargetFailingTests = ['No specific target failing tests']
